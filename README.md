@@ -1,2 +1,2 @@
-# jussi-kive-test
+# rummikub_placar
 Created with CodeSandbox
