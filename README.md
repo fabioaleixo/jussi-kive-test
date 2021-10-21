@@ -1,11 +1,11 @@
 # Jüssi Live Test
 
----
-**Perfis de candidato**: JR / PL /n
-**Duração total:** 1 hora
-**Preliminares**: 15 minutos
-**Tempo de teste:** 45 minutos
----
+
+- **Perfis de candidato**: JR
+- **Duração total:** 1 hora
+- **Preliminares**: 15 minutos
+- **Tempo de teste:** 45 minutos
+
 
 ## Orientações gerais:
 
@@ -34,7 +34,9 @@
 ## Inspirações
 
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
+
 > “First, solve the problem. Then, write the code.” – John Johnson
+
 > “Simplicity is the soul of efficiency.” – Austin Freeman
 
 
