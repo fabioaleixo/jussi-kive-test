@@ -27,7 +27,7 @@
 
 ## Instruções
 
-- Realizar uma chamada para a API pública do Github;
+- Realizar uma chamada para a API pública do Github - https://api.github.com/users/;
 - Permitir a busca pelos dados de um usuário pelo login dele;
 - Exibir o resultado conforme o [layout](https://www.figma.com/file/5QA66Otv988pJRUbq9GTOc/J%C3%BCssi-Live-Test?node-id=0%3A1) proposto no Figma.
 
