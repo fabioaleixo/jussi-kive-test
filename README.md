@@ -1,7 +1,7 @@
 # Jüssi Live Test
 
 ---
-**Perfis de candidato**: JR / PL
+**Perfis de candidato**: JR / PL /n
 **Duração total:** 1 hora
 **Preliminares**: 15 minutos
 **Tempo de teste:** 45 minutos
